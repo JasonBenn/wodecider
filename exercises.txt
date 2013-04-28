@@ -1,0 +1,46 @@
+---
+Pull-up bar:
+- Pull-ups
+- Weighted Pull-Ups
+- Toes to Bar
+Olympic bar and weights:
+- Deadlift
+- Press
+- Overhead Squat
+- Thruster
+- Push Press
+- Push Jerk
+- Clean
+- Hang Power Clean
+- Clean & Jerk
+- Snatch
+- Barbell Ground to Overhead
+- Jerk
+- Burpees over Barbell
+- Hang Snatch
+- Hang Snatch
+Erg:
+- Row
+Kettlebells:
+- Kettlebell Swings
+Dumbells:
+- Dumbbell Man-Makers
+- Bulgarian Split Squat
+Medicine Ball:
+- Wall Ball Shots
+Jumprope:
+- Double-Unders
+Rings:
+- Ring Push-Ups
+Box:
+- Box Jumps
+'':
+- Run
+- Mobility
+- Burpees
+- Push-ups
+- Handstand Push-up
+- Squats
+- Pistol
+Partner:
+- Partner
